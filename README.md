@@ -54,11 +54,7 @@ The project uses a dataset containing seed characteristics, which may include:
      ```bash
      jupyter notebook
      ```
-     Then open the analysis notebook (e.g., `seeds_analysis.ipynb`) and run the cells sequentially.
-   - Alternatively, if a script is available (e.g., `main.py`):
-     ```bash
-     python main.py
-     ```
+     Then open the analysis notebook and run the cells sequentially.
 
 ## Results
 
